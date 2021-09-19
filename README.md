@@ -2,6 +2,7 @@ Title
 # adv_python_coingecko
 
 Installation
+
 PyPI
 
 pip install pycoingecko
