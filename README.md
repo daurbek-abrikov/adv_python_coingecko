@@ -5,8 +5,8 @@ Assignment 1
 
 Installation
 
-_
-pip install pycoingecko_
+
+**pip install pycoingecko**
 
 
 or from source
