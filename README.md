@@ -70,13 +70,5 @@ Usage examples:
     cg.get_coin_ticker_by_id()
     ```
 
-### Test
-
-Run unit tests with:
-
-```
-# after installing pytest using pip3
-pytest tests
-```
 
 
