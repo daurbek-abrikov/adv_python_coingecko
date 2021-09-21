@@ -1,12 +1,14 @@
-Title
+Title:
+
 Assignment 1 
 # adv_python_coingecko
 
 Installation
 
-PyPI
+_
+pip install pycoingecko_
 
-pip install pycoingecko
+
 or from source
 
 git clone https://github.com/man-c/pycoingecko.git
