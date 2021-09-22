@@ -1,5 +1,7 @@
 from pycoingecko import CoinGeckoAPI
-from src.reformat import reformat
+import sys
+sys.path.append("src")
+import reformat as p
 
 
 cg = CoinGeckoAPI()
@@ -11,6 +13,6 @@ line = cg.get_coins()[:n]
 result = []
 for j in range(n):
     m = str(line[j])
-    result.append(reformat(m))
+    result.append(p.reformat(m))
 
 print(result)
