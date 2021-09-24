@@ -2,7 +2,7 @@
 Title:
 
 Assignment 1 
-
+Program that asks user to input number N, in order to show list of top N cryptocurrencies by the moment, from coingecko.com 
 
 ### Installation
 PyPI
