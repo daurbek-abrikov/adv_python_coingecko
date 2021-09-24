@@ -17,12 +17,6 @@ python3 setup.py install
 ```
 
 ### Usage
-
-```python
-from pycoingecko import CoinGeckoAPI
-cg = CoinGeckoAPI()
-```
-
 ### Examples
 
 
