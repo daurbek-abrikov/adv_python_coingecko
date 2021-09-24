@@ -21,7 +21,6 @@ python3 setup.py install
 
 
 
-Usage examples:
 ```python
 # User input 3, and result is below:
 >>> n = 3
